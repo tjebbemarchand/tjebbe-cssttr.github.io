@@ -5,7 +5,7 @@ The menu card is coded and tested in the latest version of Google Chrome Version
 
 ## Sketches
 ![Paper sketches 1](./docs/dynamic-weather-menu-sketch-1.jpg)
-![Paper sketches 2](./docs/dynamic-weahter-menu-sketch-2.jpg)
+![Paper sketches 2](./docs/dynamic-weather-menu-sketch-2.jpg)
 
 ## Digital versions
 I my iterations are in a collection on CodePen. Below you will find all the iterations with the link. With each iteration i described a little bit what i tried to do.
