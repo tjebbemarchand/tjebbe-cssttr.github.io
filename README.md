@@ -6,6 +6,17 @@ This project is made in a couple of weeks for a school project.
 ### Browser support
 The menu card is coded and tested in the latest version of Google Chrome Version: 72. The menu card is not tested in different browsers and may not work properly.
 
+## Summary
+A responsive restaurant menu. 
+
+The restrictions:
+- Responsive without media queries
+	- I used CSS Grid layouts to make this possible.
+- Responds to weather condition
+	- I styled the app based on cold weather, so i used cold colors and rain effects to achieve this effect.
+- No ID or Class selectors
+	- To make good specificity, you need to be very specific about selecting elements without an ID or Class. It wasn't the most fun to work with, but i learned a lot about selecting different elements without those features. 
+
 ## Sketches
 ![Paper sketches 1](./docs/dynamic-weather-menu-sketch-1.jpg)
 ![Paper sketches 2](./docs/dynamic-weather-menu-sketch-2.jpg)
