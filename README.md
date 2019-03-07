@@ -1,5 +1,8 @@
 # Responsive Restaurant Menu
 
+### School project
+This project is made in a couple of weeks for a school project.
+
 ### Browser support
 The menu card is coded and tested in the latest version of Google Chrome Version: 72. The menu card is not tested in different browsers and may not work properly.
 
